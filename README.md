@@ -7,4 +7,4 @@
 * I use python for writing Snakemake workflows and reformatting data; 
 * I am a unix geek learning shell tricks almost every month; I care about reproducible research and open science.
 
-Learn more about me at my [blog](https://divingintogeneticsandgenomics.rbind.io/)
+Learn more about me at my https://tommytang.bio.link/
