@@ -10,5 +10,5 @@
 Learn more about me at https://tommytang.bio.link/
 
 Grab my book with 25% off to learn computation at 
-[https://divingintogeneticsandgenomics.ck.page/products/cell-line-to-command-line](https://divingintogeneticsandgenomics.ck.page/products/cell-line-to-command-line?promo=33IE56499H)
+https://divingintogeneticsandgenomics.ck.page/products/cell-line-to-command-line?promo=33IE56499H
 <img width="400" alt="bookcover" src="https://user-images.githubusercontent.com/4106146/210075928-81073650-fc04-4f88-bce2-eb3c008c894c.png">
