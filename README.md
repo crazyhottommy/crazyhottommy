@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * I have over 10 years of computational biology experience, 6 years of molecular cancer biology and 4 years of immunology experience. 
-* I am a computational biologist working on (single-cell) genomics, epigenomics and transcriptomics. 
+* I am a computational biologist working on (single-cell) genomics, epigenomics and (spatial) transcriptomics. 
 * I use machine learning approaches to find new drug targets for cancer patients;
 * I use google cloud and Terra for large scale data processing;
 * I use R primary for data wrangling and visualization in the tidyverse ecosystem; 
