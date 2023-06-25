@@ -9,7 +9,9 @@
 * I am a unix geek learning shell tricks almost every month; I care about reproducible research and open science.
 
 Learn more about me at https://tommytang.bio.link/
+
 Join my FREE newsletter to learn computational biology https://divingintogeneticsandgenomics.ck.page/newsletter
+
 Subscribe to my chatomics youtube channel https://www.youtube.com/@chatomics
 
 You do not need to do a master's degree to learn computational biology. Grab my book to learn computation at [here](
