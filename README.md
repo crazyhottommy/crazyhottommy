@@ -10,7 +10,7 @@
 
 Learn more about me at https://tommytang.bio.link/
 
-Join my FREE newsletter to learn computational biology https://divingintogeneticsandgenomics.ck.page/newsletter
+Join my FREE newsletter to learn computational biology https://divingintogeneticsandgenomics.ck.page/profile
 
 Subscribe to my chatomics youtube channel https://www.youtube.com/@chatomics
 
