@@ -15,6 +15,6 @@ Join my FREE newsletter to learn computational biology https://divingintogenetic
 Subscribe to my chatomics youtube channel https://www.youtube.com/@chatomics
 
 To learn computational biology with a clear roadmap, grab my book to learn computation at [here](
-https://divingintogeneticsandgenomics.ck.page/products/cell-line-to-command-line)
+https://divingintogeneticsandgenomics.kit.com/products/cell-line-to-command-line?promo=32GIDDI076)
 
 <img width="400" alt="bookcover" src="https://user-images.githubusercontent.com/4106146/210075928-81073650-fc04-4f88-bce2-eb3c008c894c.png">
